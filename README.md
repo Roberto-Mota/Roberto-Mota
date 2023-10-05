@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paulo Mota</h1>
 <h3 align="center">A continuos learner and developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Banco do Brasil](https://www.bb.com.br/site/)
-
 - 🌱 I’m currently learning **React, React Native, Javascript, Mobile Development in general**
 
 <h3 align="left">Connect with me:</h3>
