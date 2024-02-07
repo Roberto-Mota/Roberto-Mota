@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paulo Mota</h1>
 <h3 align="center">A continuos learner and developer from Brazil</h3>
 
-- 🌱 I’m currently learning **React, React Native, Javascript, Mobile Development in general**
+- 🌱 I’m currently learning **React, React Native, Javascript and Mobile Development in general**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
